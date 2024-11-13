@@ -27,3 +27,9 @@ MVP build, we would appreciate you testing with the `azure` agent. You are welco
 openai-gpt but will need to provide your own Azure OpenAI details or OpenAI API key.
 
 ![GIF of the AIShell on boarding experience](./media/EarlyBuildDemo.gif)
+
+Please note that this is an early build and we are looking for your feedback on the experience. You
+can submit feedback at [aka.ms/AIShell-Feedback](https://aka.ms/AIShell-Feedback).
+
+We are also completely open source! You can find more details on the code/product and submit product
+bugs at at [aka.ms/AIShell-Repo](https://aka.ms/AIShell-Repo).
