@@ -25,3 +25,5 @@ For example: `Import-Module C:\Users\stevenbucher\AIShellBuild\AIShell\`
 Once launched you have the choice between two different agents; `openai-gpt` and `azure`. For this
 MVP build, we would appreciate you testing with the `azure` agent. You are welcome to try the
 openai-gpt but will need to provide your own Azure OpenAI details or OpenAI API key.
+
+![GIF of the AIShell on boarding experience](./media/EarlyBuildDemo.gif)
